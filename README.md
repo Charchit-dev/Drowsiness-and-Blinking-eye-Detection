@@ -13,12 +13,21 @@ If drowsiness is detected for more than the allowed frames, an alert is displaye
 Real-time Display: Shows the live feed with contours around the eyes and messages indicating the state of the user.
 Exiting the Program: The application can be exited by pressing q.
 Folder structure of the program:
+
 Computer-Vision-Projects
-└── Blinking and Drowsiness Detection/
+└──
+Blinking and Drowsiness Detection/
+    
     ├── Dataset/
-    │   └── shape_predictor_68_face_landmarks.dat
-    └── main.py
-    └──assets/
+    
+    │   
+    └── 
+    shape_predictor_68_face_landmarks.dat
+    └──
+    main.py
+    └──
+    assets/
+        
         └── 1.jpg
         └── images.jpg
    
